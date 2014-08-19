@@ -1,13 +1,13 @@
 module.exports = {
   // Your twitter username
-  username:'username',
+  username:'jsdeutch',
   // Your own Twitter app consumer/secret & access_token/secret
   //  for your account `username`
   oauth:{
-    consumer_key: 'CONSUMER_KEY'
-  , consumer_secret: 'CONSUMER_SECRET'
-  , token: 'TOKEN'
-  , token_secret: 'TOKEN_SECRET'
+    consumer_key: '8qA8MxGIcGlirPvOmnl32x4rb'
+  , consumer_secret: 'sI1CVKgTQiUDpUbdtq7TtptkHe34XfVPPAaYeyqhcB4joLz4VM'
+  , token: '2601319339-vujp3jOoXZ0kd83uYDUASyVXyqb8RZSg9KfUdl6'
+  , token_secret: 'xQta64zqB9NWmlLTSkp4TMyf3pTZuz5LuK2EH1HpkGh9j'
   },
   // Topsy API key
   apikey: '09C43A9B270A470B8EB8F2946A9369F3',
